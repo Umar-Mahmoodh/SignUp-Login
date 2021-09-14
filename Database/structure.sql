@@ -1,4 +1,4 @@
-#structure.sql
+#structure.sql123
 
 CREATE TABLE newuser(
     UserID int (12) AUTO_INCREMENT,
